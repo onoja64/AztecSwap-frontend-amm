@@ -11,10 +11,10 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "Aztec Gold token",
-      "symbol": "GOLD",
-      "address": "0x8298fea38aa8627316ffd943fe001b69cac8174d",
-      "chainId": 56,
+      "name": "Test Token token",
+      "symbol": "TEST",
+      "address": "0xe471ed3026f4d098f58a52bb349757bd35a1ecb3",
+      "chainId": 97,
       "decimals": 18
     },
     {
